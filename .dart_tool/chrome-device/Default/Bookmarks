@@ -1,0 +1,125 @@
+{
+   "checksum": "882ce0ce0276ee60711d1d610eb86b4b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13300980958700038",
+            "date_last_used": "0",
+            "guid": "2f8e2726-727c-4cb2-8582-fe30328de8d8",
+            "id": "15",
+            "name": "HP",
+            "type": "url",
+            "url": "https://www.redeemnow.in/hpcollegereadygearoffer"
+         }, {
+            "date_added": "13301008259411632",
+            "date_last_used": "0",
+            "guid": "b0462f08-a017-4694-85df-9930a3760c31",
+            "id": "16",
+            "name": "LastPass",
+            "type": "url",
+            "url": "https://www.lastpass.com/hpwelcome"
+         }, {
+            "date_added": "3032023070018899",
+            "date_last_used": "0",
+            "guid": "e18e181f-d976-4a5b-9d23-8d92c376273a",
+            "id": "17",
+            "name": "Bing",
+            "type": "url",
+            "url": "https://www.bing.com/?PC=EE24&form=EE24FV"
+         }, {
+            "date_added": "3032023070018912",
+            "date_last_used": "0",
+            "guid": "facd49eb-f396-4abc-9e0c-b47c5cd0d454",
+            "id": "18",
+            "name": "MSN",
+            "type": "url",
+            "url": "https://www.msn.com/?PC=EE24&OCID=MSNHP_EE24&form=EE24FV"
+         }, {
+            "date_added": "13324467880397301",
+            "date_last_used": "0",
+            "guid": "3f040bd7-4a00-4b36-8fed-5a75a99786ae",
+            "id": "19",
+            "name": "UTIITSL_ePAN_N005109419_10012022_123201.pdf",
+            "type": "url",
+            "url": "file:///C:/Users/HP/Downloads/UTIITSL_ePAN_N005109419_10012022_123201.pdf"
+         }, {
+            "date_added": "13332491028593018",
+            "date_last_used": "0",
+            "guid": "56218fad-42c6-4ffa-9e95-05be57afefb1",
+            "id": "9",
+            "name": "Booking.com",
+            "type": "url",
+            "url": "https://www.booking.com/index.html?aid=1980379&label=NW21C2EF"
+         }, {
+            "date_added": "13332491028592893",
+            "date_last_used": "0",
+            "guid": "c8e9cf2f-9fe3-46d9-9f32-f07f96278e49",
+            "id": "8",
+            "name": "Express VPN",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge"
+         }, {
+            "date_added": "13332491028592762",
+            "date_last_used": "0",
+            "guid": "d736ff08-440a-468f-ba5b-d860962d9db1",
+            "id": "7",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "http://www.mcafee.com/consumer/v/browserfav/hp.html"
+         }, {
+            "date_added": "13332491028591947",
+            "date_last_used": "0",
+            "guid": "65106b1d-27c1-4cdd-972c-56f3748ee218",
+            "id": "6",
+            "name": "LastPass password manager",
+            "type": "url",
+            "url": "http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge"
+         } ],
+         "date_added": "13332491028222431",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13301008259411632",
+               "date_last_used": "0",
+               "guid": "634a1ed7-fba4-47f6-9091-283f331efa19",
+               "id": "14",
+               "name": "LastPass",
+               "type": "url",
+               "url": "https://www.lastpass.com/hpwelcome"
+            } ],
+            "date_added": "13332491032886757",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "e204584f-9341-46b6-bd47-58110039238b",
+            "id": "13",
+            "name": "HP",
+            "type": "folder"
+         } ],
+         "date_added": "13332491028222434",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13332491028222440",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
